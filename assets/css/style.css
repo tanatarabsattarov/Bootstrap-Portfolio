@@ -44,6 +44,14 @@ footer{
     background:#4aaaa5;
     opacity:0.8;
 }
+.col-md-3 a {
+    color:#fff !important;
+    text-decoration: none !important;
+}
+
+.col-md-3 img {
+    width:100%;
+}
 
 /*================== Contact section ==================*/
 
